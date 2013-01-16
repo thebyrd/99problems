@@ -7,3 +7,4 @@ pg says that the best startup problems are problems that you personally face and
 3. Differentiating raw counts of user actions (clicks, drags, etc) from actual engagement.
 4. Relating / managing cross network data.
 5. When I'm not in NYC I wonder why nothing is open at 10pm. The solution might be an app that helps me stay organized, but it would be way more interesting to see if you could turn any small city into NYC by just connecting people better. There has got to be at least 1 place open this late.
+6. I have a fuck load of books and so do alot of my friends. Why don't we own a library together. What would a modern library look like?
