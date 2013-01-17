@@ -10,3 +10,4 @@ pg says that the best startup problems are problems that you personally face and
 6. I have a fuck load of books and so do alot of my friends. Why don't we own a library together. What would a modern library look like?
 7. Communication and collaboration with my doctor is virtually nonexistent. It's a one-way relationship. At best, my relationship with my doctor is one of an acquaintance, where it should be like that of a good friend. Also, I don't remember everything the doctor says.
 8. California department of motor vehicles
+9. Uploading products & keeping web, store, wholesale inventory counts in sync
