@@ -16,3 +16,7 @@ pg says that the best startup problems are problems that you personally face and
 12. Where do I go to hear others' life stories? I don't want to wade throughvideos and snippets of text and piece together their lives. I'm referring to people I'm not currently buddy buddy with.
 13. I hate gaps in between projects.
 14. In trying to get closer to patient medical records, the medical industry feels a reluctance, hindering my efforts to help them. Perhaps if there was a medical info data warehouse that provided doctors with the real-time status of community health, as well as analytics / trends on their own patients, they would be willing to share. There's a nice network effect here, too.
+15. Getting advice from experts. Sometimes I'd rather hear from someone than endlessly search google for answers.
+16. I want to know what someone else's "feed" looks like. Their social media experience.
+17. Managing my finances / understanding what things I should do based on my income, activity, etc. Would be cool if it hooked into your Foursquare/Facebook/Twitter. Understood you and your behavior, made suggestions in accordance. I don't invest much, just save, that needs to change.
+18. Augment habits.
